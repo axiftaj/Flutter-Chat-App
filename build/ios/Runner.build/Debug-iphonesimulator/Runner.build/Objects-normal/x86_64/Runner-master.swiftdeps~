@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "d33de6968d617e240d7e1a46b45ab54a"
+build_time: [1592036806, 101074000]
+inputs:
+  "/Users/eapple/Desktop/flash-chat-flutter/ios/Runner/AppDelegate.swift": [1591987100, 170721577]
